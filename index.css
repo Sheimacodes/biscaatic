@@ -5,7 +5,7 @@ body {
     font-weight: bold;
     color: whitesmoke;
     text-align: center;
-    backdrop-filter: blur(2px);
+    
     
 }
 
@@ -34,18 +34,16 @@ button {
 }
 
 #increment-btn {
-    background: whitesmoke;
-    color: black;
-      border-radius: 3px;
-background: rgba(255, 255, 255, 0.34);
+  
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.34);
  
 
 }
 
 #save {
    
-   border-radius: 3px;
-
-background: rgba(255, 255, 255, 0.34);
+    border-radius: 3px;
+    background: rgba(255, 255, 255, 0.34);
 }
 
